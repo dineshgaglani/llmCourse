@@ -1,0 +1,11 @@
+Flight Ticket
+=============
+Booking #   : 1
+Passenger   : Dinesh Gaglani, Age 33
+Source      : Calgary
+Destination : Berlin
+Airline     : BerlinAirlinesAI
+Departure   : 9:00 AM
+Price       : $499
+Duration    : 6 hours
+Seat Number : L83
